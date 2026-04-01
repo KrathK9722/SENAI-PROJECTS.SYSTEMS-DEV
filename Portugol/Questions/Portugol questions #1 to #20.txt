@@ -1,87 +1,63 @@
 //First activities done in class:
 
 ## Exercise 1
-
 Read name, age, and height. Show the data and indicate if the person is of legal age.
 
 ## Exercise 2
-
 Read two numbers and show the sum, average, and which is larger.
 
 ## Exercise 3
-
 Read salary and years of service. For every 5 years of service, apply a 10% salary increase.
-
 Show the new salary.
 
 ## Exercise 4
-
 Read 3 grades, calculate the average, and indicate whether the person passed or failed. The final average is 7.
 
 ## Exercise 5
-
 Read a number and show if it is even/odd and positive/negative.
 
 ## Exercise 6
-
 Read price and quantity. Calculate the total and a 5% discount if >100.
 
 ## Exercise 7
-
 Read age and show category (child, adult, elderly).
 
 ## Exercise 8
-
 Read base and height. Calculate the area and classify it as small, medium, or large according to the size of the area.
-
-> =150 medium. >350 large.
-
->
+area >=150 medium / area > 350 large.
 
 ## Exercise 9
-
 Read 3 numbers and show the largest and smallest among them.
 
 ## Exercise 10
-
 Read a number and show its multiplication table + whether it is a multiple of 3.
 
 ## Exercise 11
-
 Read 5 numbers and show the sum and average.
 
 ## Exercise 12
-
 Read 5 numbers and count how many are even.
 
 ## Exercise 13
-
 Read numbers up to 0 and calculate the average.
 
 ## Exercise 14
-
 Read numbers up to 0 and show the largest value.
 
 ## Exercise 15
-
 Read 10 numbers and count the positive/negative ones.
 
 ## Exercise 16
-
 Read the ages of 5 people and calculate the average.
 
 ## Exercise 17
-
 Read values ​​up to negative and sum only the positive ones.
 
 ## Exercise 18
-
 Read 10 numbers and count only those greater than 50.
 
 ## Exercise 19
-
 Read weight and height and calculate BMI + classification.
 
 ## Exercise 20
-
 Read two numbers, ask if the user wants to perform a sum or average, and then display the result.
