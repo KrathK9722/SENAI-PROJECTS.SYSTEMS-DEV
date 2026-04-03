@@ -1,0 +1,7 @@
+//Other portugol activities:
+
+21 - Read an integer, show all the numbers from 0 until you reach the entered number, and sum them all.
+22 - Read a number and show its composition and the total of its factorial.
+23 - Read 5 numbers and say how many are greater than 10 and how many are less than or equal to 10.
+24 - Read a number and say whether it is a prime number.
+25 - Create a simulated vote with two candidates, allowing for a blank vote, and an null vote when the option is invalid, permitting an unlimited number of responses until manual closure.
