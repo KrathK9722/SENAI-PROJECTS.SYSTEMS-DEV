@@ -1,4 +1,4 @@
-# SENAI PROJECTS - SYSTEMS DEVELOPER using Portugol 
+# SENAI COURSE - SYSTEMS DEVELOPEMENT using Portugol 
 
 ---------------------------------------------------------------------------------------------------------------------------
 
